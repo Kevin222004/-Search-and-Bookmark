@@ -1,6 +1,3 @@
-Here’s the entire README content in proper Markdown syntax:
-
-```markdown
 # **QuantaSight - Search and Bookmark Web Application**
 
 A full-stack web application that allows users to **search, filter, and bookmark content** across multiple categories. Built with **React**, **Node.js**, **Express**, and **MySQL**, it features **user authentication**, **dynamic search capabilities**, and **bookmark management**.
