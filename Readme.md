@@ -109,7 +109,7 @@ quantasight/
    ```bash
    npm install
    ```
-3. Create an `.env` file:
+3. Create an `.env` file in backend folder:
    ```plaintext
    DB_HOST=localhost
    DB_USER=your_mysql_user
@@ -118,13 +118,7 @@ quantasight/
    JWT_SECRET=your_jwt_secret
    PORT=3001
    ```
-4. Create the database and import schema:
-   ```sql
-   CREATE DATABASE quantasight_search;
-   USE quantasight_search;
-   -- Import schema.sql
-   ```
-5. Start the server:
+4. Start the server:
    ```bash
    npm run dev
    ```
