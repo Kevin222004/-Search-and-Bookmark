@@ -253,7 +253,7 @@ quantasight/
   ```json
   {
     "success": true,
-    "action": "added" // or "removed"
+    "action": "added"
   }
   ```
 
